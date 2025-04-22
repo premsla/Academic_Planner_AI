@@ -2,8 +2,6 @@
 
 A modern academic planning application with AI-powered smart scheduling, dynamic analytics, and seamless task, class, and exam management.
 
-**DEMO:** (Add your demo link here)  
-**SCREENSHOTS:** (Add your screenshots link here)
 
 ---
 
