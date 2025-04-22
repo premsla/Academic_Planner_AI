@@ -8,8 +8,7 @@ A modern academic planning application with AI-powered smart scheduling, dynamic
 ---
 
 ## AI TOOLS & TECH STACK USED
-- **Windsurf IDE** (by Codeium) for AI-powered code generation and automation
-- **AugmentCode** (AI agentic coding assistant)
+- **Chat Gpt** code
 - **Gemini API** (Google AI) for Smart Scheduling
 - **React 18** (frontend)
 - **Redux Toolkit** (state management)
