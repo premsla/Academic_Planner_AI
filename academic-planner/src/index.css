@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for toggle switch */
+.toggle-checkbox:checked {
+  right: 0;
+  border-color: #1565d8;
+}
+
+.toggle-checkbox:checked + .toggle-label {
+  background-color: #bfdbfe;
+}
+
+.toggle-checkbox {
+  transition: all 0.3s ease;
+}
+
+.toggle-label {
+  transition: background-color 0.3s ease;
+}
+
+/* Highlight duplicate study slots for debugging */
+.duplicate-slot {
+  border: 2px dashed #dc3545 !important;
+  position: relative;
+}
+
+.duplicate-slot::after {
+  content: 'Duplicate';
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #dc3545;
+  color: white;
+  font-size: 10px;
+  padding: 2px 5px;
+  border-radius: 0 0 0 5px;
+}
