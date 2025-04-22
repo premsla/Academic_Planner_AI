@@ -8,7 +8,6 @@ A modern academic planning application with AI-powered smart scheduling, dynamic
 ---
 
 ## AI TOOLS & TECH STACK USED
-- **Chat Gpt** code
 - **Gemini API** (Google AI) for Smart Scheduling
 - **React 18** (frontend)
 - **Redux Toolkit** (state management)
