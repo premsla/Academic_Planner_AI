@@ -1,6 +1,9 @@
 # Academic Planner with Smart Scheduling & Analytics
 
 A modern academic planning application with AI-powered smart scheduling, dynamic analytics, and seamless task, class, and exam management.
+
+
+
 demo video- (https://drive.google.com/file/d/1AGnrD50-wFQpVWA47RiygBEjWfUXkR1z/view?usp=drive_link)
 
 ---
