@@ -19,6 +19,7 @@ demo video- (https://drive.google.com/file/d/1dwiVMruK26w09lNrLYh0bOaaZDJrogp9/v
 - **MongoDB** (data storage)
 - **lucide-react** (icons)
 - **Vite** (frontend tooling)
+- **CHATGPT**
 
 ---
 
